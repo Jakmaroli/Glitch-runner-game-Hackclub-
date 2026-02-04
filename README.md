@@ -45,4 +45,3 @@ This project demonstrates **Separation of Concerns** by splitting logic into spe
 * **Web Audio API**
 
 ---
-*Created by [Your Name]*
