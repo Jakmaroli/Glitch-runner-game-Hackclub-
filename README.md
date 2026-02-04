@@ -5,7 +5,7 @@
 > "Run fast, jump high, and glitch the system."
 
 ## 🎮 Play the Game
-**[Link to Live Demo if you publish it]**
+https://jakmaroli.github.io/Glitch-runner-game-Hackclub-/
 
 ## 🕹️ Controls
 | Platform | Action | Control |
